@@ -31,21 +31,21 @@
 
 Book list app requires Python 3.8.
 
-**1. Clone the repository**
+**1. Clone the repository:**
 git clone https://github.com/thegleam/graphene-simple-book-list-api.git
 
-**2. Install python requirements**
+**2. Install python requirements:**
 cd book_list
 pip install -r requirements.txt
 
-**3. Handle migrations**
+**3. Handle migrations:**
 python manage.py makemigrations
 python manage.py migrate
 
-**4. populate database**
+**4. populate database:**
 python manage.py populatedb
 
-**5. runserver**
+**5. runserver:**
 python manage.py runserver
 
 ## Accessing the api
