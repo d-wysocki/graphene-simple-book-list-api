@@ -13,6 +13,7 @@
 <br>
 
 <br>
+
 ## Features
 
 - **Graphql filter**: Search books by title using grapql filter inputs
@@ -31,7 +32,7 @@
 Book list app requires Python 3.8.
 
 **1. Clone the repository**
-git clone https://github.com/thegleam/grapql-book-list-api.git
+git clone https://github.com/thegleam/graphene-simple-book-list-api.git
 
 **2. Install python requirements**
 cd book_list
